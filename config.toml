@@ -1,0 +1,37 @@
+title = 'Valentín Silvestri - Personal Website'
+baseURL = "https://valentinsilvestri.github.io/"
+languageCode = "es-ar"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+publishDir = "docs"
+
+[params]
+address = "Rosario, Arg"
+profession = "Ingeniero Industrial"
+email = "valentinsilvestri@outlook.com"
+favicon = "/favicon.ico"
+firstName = "Valentín"
+lastName = "Silvestri"
+phone = "+54 9 3465-669285"
+profileImage = "img/valentin-silvestri.jpg"
+showEducation = true
+showExperience = true
+showPublications = true
+showQr = true
+showSkills = true
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/valentinsilvestri/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/valentinsilvestri/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

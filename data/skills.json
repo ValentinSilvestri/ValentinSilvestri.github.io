@@ -1,0 +1,28 @@
+[
+  {
+      "grouping":"Lenguajes",
+      "skills":[ "Python","SQL", "R", "JavaScript"]
+  },
+  {
+      "grouping":"Herramientas",
+      "skills":[ "Power BI","Tableau","Superset","git"]
+  },
+  {
+      "grouping":"Bases de datos",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Oracle","icon":"database"},
+        "MongoDB",
+        {"name":"PostgreSQL"},
+        {"name":"SQLite","icon":"sqllite"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Heroku","link":"https://heroku.com"}
+      ]
+  }
+]

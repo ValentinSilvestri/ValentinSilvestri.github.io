@@ -1,0 +1,58 @@
+[
+	{
+		"name":"Agile Software Development",
+		"description": "Coursera - University of Minnesota",
+		"badge":"img/coursera.png",
+		"proof":"https://www.coursera.org/account/accomplishments/verify/E2PQVW4H7HZH"
+
+	},
+	{
+		"name":"Lean Software Development",
+		"description": "Coursera - University of Minnesota",
+		"badge":"img/coursera.png",
+		"proof":"https://www.coursera.org/account/accomplishments/verify/AB4PQYEQ492M"
+
+	},
+	{
+		"name":"Software Development Processes and Methodologies",
+		"description": "Coursera - University of Minnesota",
+		"badge":"img/coursera.png",
+		"proof":"https://www.coursera.org/account/accomplishments/verify/NPZK95CVVRJW"
+
+	},
+	{
+		"name":"Successful Negotiation: Essential Strategies and Skills",
+		"description": "Coursera - University of Michigan",
+		"badge":"img/coursera.png",
+		"proof":"https://www.coursera.org/account/accomplishments/verify/78LNBD6VEHBV"
+
+	},
+	{
+		"name":"Introduction to Software Product Management",
+		"description": "Coursera - University of Alberta",
+		"badge":"img/coursera.png",
+		"proof":"https://www.coursera.org/account/accomplishments/verify/4ELTL3ECKZF5"
+
+	},
+	{
+		"name":"Agile Software Development",
+		"description": "Coursera - University of Minnesota",
+		"badge":"img/coursera.png",
+		"proof":"https://www.coursera.org/account/accomplishments/verify/E2PQVW4H7HZH"
+
+	},
+	{
+		"name":"Celpe-Bras",
+		"description": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP",
+		"badge":"img/INEP.png",
+		"proof":"https://www.coursera.org/account/accomplishments/verify/E2PQVW4H7HZH"
+
+	},
+	{
+		"name":"First Certificate in English - FCE",
+		"description": "Cambridge Assessment - International Education",
+		"badge":"img/Cambridge.png",
+		"proof":"https://www.coursera.org/account/accomplishments/verify/E2PQVW4H7HZH"
+
+	}
+]

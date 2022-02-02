@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Business Intelligence Analyst",
+        "company":"Nextbyn - Chess Desarrollos Informáticos",
+        "summary":"Robotic Process Automation, ETL, creación y mantenimiento de bases de datos, elaboración y mantenimiento de reportes en Power BI.\n\nFamiliarizado con Python, SQL Server, AWS y Windows Server.",
+        "range":"Oct 2021 - Actualmente"
+    },
+    {
+        "role":"Tutor de Data Analytics",
+        "company":"Coderhouse",
+        "summary":"Acompañamiento de los estudiantes en su proceso de aprendizaje, resolución de consultas teóricas y prácticas, dictado de clases. Entre las principales herramientas utilizadas se destacan SQL Server y PowerBI (tableros, DAX y M).",
+        "range":"Jul 2021 - Actualmente"
+    },
+    {
+        "role":"Implementación y soporte",
+        "company":"Algoritmo - Soft House",
+        "summary":"Principales responsabilidades: \n- Asistencia funcional y técnica a usuarios. \n- Definición de reportes mediante consultas SQL en función de las necesidades del cliente. \n- Definición del alcance de proyectos de implementación del sistema. \n- Planificación de proyectos de implementación. \n- Parametrización del sistema en clientes nuevos. \n- Capacitación de usuarios en procesos de implementación. \n- Migración de información en procesos de implementación. \n- Testing manual y reporte de fallos del sistema. \n\nFamiliarizado con servidores Windows Server y lenguaje VB.NET.",
+        "range":"Ene 2021 - Oct 2021"
+    },
+    {
+        "role":"Pasante en Operaciones",
+        "company":"Gerdau Argentina",
+        "summary":"Estandarización de procedimientos y operaciones, desarrollo de propuestas y análisis de mejoras, elaboración de KPI's y ecualización técnica de licitaciones dentro de las áreas de Patio de Chatarra y Coproductos en Acería - Planta Ludueña.",
+        "range":"Feb 2019 - Feb 2020"
+    }
+]
