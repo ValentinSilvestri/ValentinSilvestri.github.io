@@ -2,7 +2,7 @@
 title: "Bonos de Chapo - Twitter bot."
 date: 2021-08-01
 featured: true
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+description: "Sencillo bot de Twitter y Telegram para prestar seguimiento a ratios de bonos HD (Bonares y Globales), publicando diariamente las relaciones entre los mencionados bonos."
 tags: ["Mercados de capitales", "Python", "REST APIs", "WebSockets"]
 image: "img/bonos-chapo-1.png"
 link: "https://twitter.com/bonosdelchapo"
@@ -12,4 +12,4 @@ sitemap:
   priority : 0.8
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Elabore un simple bot de Twitter y Telegram para prestar seguimiento a ratios de bonos HD (Bonares y Globales), publicando diariamente las relaciones entre los mencionados bonos. En su corta, los tweets superaron las 100.000 impresiones, demostrando el interes de tenedores en esta sencilla (y naive.. perdón NNT) estrategia.

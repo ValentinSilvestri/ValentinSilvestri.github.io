@@ -8,4 +8,4 @@ outputs:
 - rss
 - json
 ---
-Ingeniero Industrial con experiencia en la industria de procesos y sistemas, en constante búsqueda de nuevos desafíos que me permitan desarrollarme profesional y personalmente. Interesado en mercados financieros y nuevas tecnologías.
+Ingeniero Industrial con experiencia en la industria de procesos y sistemas, en constante búsqueda de nuevos desafíos que me permitan desarrollarme profesional y personalmente. Interesado en mercados financieros, sistemas y nuevas tecnologías.

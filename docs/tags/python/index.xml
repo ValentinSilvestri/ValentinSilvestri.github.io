@@ -13,7 +13,7 @@
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://valentinsilvestri.github.io/publications/cammesa-streamlit/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Aplicación que permite visualizar las principales variables del SADI (actualmente es posible visualizar y descargar datos de las cuencas hídricas, perturbaciones del SADI, así como datos de la demanda y generación eléctrica.). Elaborada utilizando la API Rest de CAMMESA, Mongo DB, Heroku y Streamlit.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://valentinsilvestri.github.io/publications/engineer-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Proyecto llevado a cabo en una empresa comercializadora de pintura localizada en la Provincia de Buenos Aires, con sucursales en las provincias de Santa Fe y Entre Ríos. La búsqueda de nuevos mercados y el continuo crecimiento de la empresa, en un contexto cada vez más competitivo, requiere de la definición de metodologías y prácticas tendientes a profesionalizar su gestión; objetivos alcanzados en el desarrollo del presente proyecto.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://valentinsilvestri.github.io/publications/bonos-del-chapo/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Elabore un simple bot de Twitter y Telegram para prestar seguimiento a ratios de bonos HD (Bonares y Globales), publicando diariamente las relaciones entre los mencionados bonos. En su corta, los tweets superaron las 100.000 impresiones, demostrando el interes de tenedores en esta sencilla (y naive.. perdón NNT) estrategia.</description>
     </item>
     
   </channel>
