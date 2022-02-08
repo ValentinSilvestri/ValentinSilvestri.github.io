@@ -8,4 +8,6 @@ outputs:
 - rss
 - json
 ---
-Ingeniero Industrial con experiencia en la industria de procesos y sistemas, en constante búsqueda de nuevos desafíos que me permitan desarrollarme profesional y personalmente. Interesado en mercados financieros, sistemas y nuevas tecnologías.
+Soy Valentín, Ingeniero Industrial por la UNR-FCEIA. Cuento con experiencia en empresas de sistemas, en procesos (industria siderúrgica) y docencia, desempeñándome principalmente en temas asociados a informática (Sistemas de Información, Data Analytics y Data Science). 
+
+Me encuentro en constante búsqueda de nuevos desafíos, motivado por ganas de aprender y superarme.
