@@ -1,25 +1,25 @@
 [
     {
         "role": "Business Intelligence Analyst",
-        "company": "Nextbyn - Chess Desarrollos Informáticos",
+        "company": "[Nextbyn](https://www.nextbyn.com/)",
         "summary": "Principales responsabilidades: \n- Robotic Process Automation (RPA). \n-Extract, Transform and Load (ETL). \n- Creación y mantenimiento de bases de datos. \n- Elaboración y mantenimiento de reportes en Power BI. \n- Análisis de datos para obtener insights y tomar decisiones. \n- Detectar oportunidades y liderar procesos de mejora.\n\nFamiliarizado con Python, SQL Server, AWS y Windows Server.",
         "range": "Oct 2021 - Actualmente"
     },
     {
         "role": "Tutor de Data Analytics",
-        "company": "Coderhouse",
+        "company": "[Coderhouse](https://www.coderhouse.com/)",
         "summary": "Acompañamiento de los estudiantes en su proceso de aprendizaje, resolución de consultas teóricas y prácticas, dictado de clases. Entre las principales herramientas utilizadas se destacan SQL Server y PowerBI (tableros, DAX y M).",
         "range": "Jul 2021 - Actualmente"
     },
     {
         "role": "Implementación y soporte",
-        "company": "Algoritmo - Soft House",
+        "company": "[Algoritmo - Soft House](https://www.algoritmo.com.ar/cereales)",
         "summary": "Principales responsabilidades: \n- Asistencia funcional y técnica a usuarios. \n- Definición de reportes mediante consultas SQL en función de las necesidades del cliente. \n- Definición del alcance de proyectos de implementación del sistema. \n- Planificación de proyectos de implementación. \n- Parametrización del sistema en clientes nuevos. \n- Capacitación de usuarios en procesos de implementación. \n- Migración de información en procesos de implementación. \n- Testing manual y reporte de fallos del sistema. \n\nFamiliarizado con servidores Windows Server y lenguaje VB.NET.",
         "range": "Ene 2021 - Oct 2021"
     },
     {
         "role": "Pasante en Operaciones",
-        "company": "Gerdau Argentina",
+        "company": "[Gerdau Argentina](https://www.gerdau.com.ar/)",
         "summary": "Principales responsabilidades: \n- Estandarización de procedimientos y operaciones, tendientes a certificar normas ISO 9001, ISO 14001 y OHSAS 18001. \n- Capacitación de colaboradores sobre los estándares desarrollados. \n- Desarrollo de propuestas y análisis de mejoras.  \n- Elaboración y seguimiento de KPI's. \n- Participación en proyecto de planta briqueteadora de polvo de acería. \n- Ecualización técnica de licitaciones.\n\nActividades desarrolladas en las áreas de Patio de Chatarra y Coproductos en Acería - Planta Ludueña.",
         "range": "Feb 2019 - Feb 2020"
     }
