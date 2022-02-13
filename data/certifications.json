@@ -42,17 +42,31 @@
 
 	},
 	{
+		"name":"Full Stack Developer",
+		"description": "Radium Rocket",
+		"badge":"img/radium-rocket.png",
+		"proof":"https://valentinsilvestri.github.io/files/FullStackDeveloper.pdf"
+
+	},
+	{
+		"name":"Python Fundamentals Track",
+		"description": "Datacamp",
+		"badge":"img/datacamp.png",
+		"proof":"https://www.datacamp.com/statement-of-accomplishment/track/c19b697fcdd3c144147d582a8b0226ef1fd4780a"
+
+	},
+	{
 		"name":"Celpe-Bras",
 		"description": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP",
 		"badge":"img/INEP.png",
-		"proof":"https://www.linkedin.com/in/valentinsilvestri/details/certifications/"
+		"proof":"https://valentinsilvestri.github.io/files/CELPE-Bras.pdf"
 
 	},
 	{
 		"name":"First Certificate in English - FCE",
 		"description": "Cambridge Assessment - International Education",
 		"badge":"img/Cambridge.png",
-		"proof":"https://www.linkedin.com/in/valentinsilvestri/details/certifications/"
+		"proof":"https://valentinsilvestri.github.io/files/FCE.pdf"
 
 	}
 ]
