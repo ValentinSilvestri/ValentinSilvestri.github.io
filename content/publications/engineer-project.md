@@ -1,6 +1,6 @@
 ---
 title: "Profesionalización de la gestión de aprovisionamiento y compras, gestión de almacén y distribución a sucursales en cadena de pinturerías."
-date: 2021-11-25
+date: 2020-11-25
 featured: true
 description: "Proyecto llevado a cabo en una empresa comercializadora de pintura localizada en la Provincia de Buenos Aires, con sucursales en las provincias de Santa Fe y Entre Ríos, con el objetivo de definir metodologías y prácticas tendientes a profesionalizar su gestión."
 tags: ["Investigación", "Educación", "Ingeniería Industrial", "Python", "Investigación Operativa", "Forecasting", "Demand Plannig"]

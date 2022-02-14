@@ -11,7 +11,7 @@ sitemap:
   priority : 0.8
 ---
 
-Aplicación que permite visualizar las principales variables del SADI (actualmente es posible visualizar y descargar datos de las cuencas hídricas, perturbaciones del SADI, así como datos de la demanda y generación eléctrica). Elaborada utilizando la API Rest de CAMMESA, Mongo DB, Heroku y Streamlit.
+Aplicación que permite visualizar las principales variables del SADI (actualmente es posible visualizar y descargar datos de las cuencas hídricas, perturbaciones del SADI, así como datos de la demanda y generación eléctrica). Elaborada utilizando la API Rest de CAMMESA, Mongo DB, Heroku y Streamlit, con el fin de analizar las bondades de Streamlit.
 
 {{<figure src="/img/cammesa-app.gif" alt="Cammesa-1" width="100%">}}
 {{<figure src="/img/cammesa-app-6.png" alt="Cammesa-2" width="100%">}}

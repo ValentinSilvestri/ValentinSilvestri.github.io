@@ -1,6 +1,6 @@
 ---
 title: "Mercados spot y derivados de energía. Experiencias internacionales. Desarrollo en Argentina."
-date: 2021-11-10
+date: 2020-11-10
 featured: true
 description: "El futuro del gas natural es prometedor debido a sus características para ser utilizado como combustible de transición hacia una matriz energética mundial más limpia. Por otro lado, el proceso de “comoditización” del gas está avanzando internacionalmente gracias a la expansión del GNL, dando lugar al surgimiento y consolidación de un mercado de gas globalizado, donde los precios locales del gas natural irán desapareciendo. Bajo estas hipótesis, se analizó la industria y el mercado de gas natural en Argentina, así como la factibilidad de implementar derivados financieros."
 tags: ["Mercados de capitales", "Educación", "Investigación", "Energía"]

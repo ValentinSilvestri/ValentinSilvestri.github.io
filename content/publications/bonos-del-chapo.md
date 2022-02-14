@@ -1,6 +1,6 @@
 ---
 title: "Bonos de Chapo - Twitter bot."
-date: 2021-08-01
+date: 2020-08-01
 featured: true
 description: "Sencillo bot de Twitter y Telegram para prestar seguimiento a ratios de bonos HD (Bonares y Globales), publicando diariamente las relaciones entre los mencionados bonos."
 tags: ["Mercados de capitales", "Python", "REST APIs", "WebSockets"]
