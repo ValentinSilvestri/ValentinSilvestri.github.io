@@ -5,7 +5,7 @@ featured: true
 description: "Proyecto llevado a cabo en una empresa comercializadora de pintura localizada en la Provincia de Buenos Aires, con sucursales en las provincias de Santa Fe y Entre Ríos, con el objetivo de definir metodologías y prácticas tendientes a profesionalizar su gestión."
 tags: ["Investigación", "Educación", "Ingeniería Industrial", "Python", "Investigación Operativa", "Forecasting", "Demand Plannig"]
 image: "img/industrial-3.png"
-link: "https://valentinsilvestri.github.io/files/Proyecto%20014-20%20-%20Morassi%20Silvestri.pdf"
+link: "https://valentinsilvestri.github.io/files/proyecto-ingenieria.pdf"
 fact: "Calificado como trabajo distinguido por el jurado evaluador."
 weight: 400
 sitemap:

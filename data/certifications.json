@@ -42,6 +42,13 @@
 
 	},
 	{
+		"name":"Programa de Formación 2019",
+		"description": "Bolsa de Comercio de Rosario",
+		"badge":"img/BCR.png",
+		"proof":"https://valentinsilvestri.github.io/files/BCR-certificado.pdf"
+
+	},
+	{
 		"name":"Full Stack Developer",
 		"description": "Radium Rocket",
 		"badge":"img/radium-rocket.png",
