@@ -14,13 +14,15 @@ email = "valentinsilvestri@outlook.com"
 favicon = "/favicon.ico"
 firstName = "Valentín"
 lastName = "Silvestri"
-phone = "+54 9 3465-669285"
+phone = "+54 9 3465 66-9285"
 profileImage = "img/valentin-silvestri.jpg"
 showEducation = true
 showExperience = true
 showPublications = true
 showQr = true
 showSkills = true
+description = "Soy Valentín, Ingeniero Industrial por la UNR-FCEIA. Cuento con experiencia en empresas de sistemas, en procesos y docencia (Sistemas de Información)."
+keywords = "engineer, developer, desarrollador, ingeniero, industrial, data analysis, data analytics, data visualization, python, ingeniero industrial"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/valentinsilvestri/"
@@ -35,3 +37,8 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
