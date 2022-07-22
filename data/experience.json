@@ -1,9 +1,21 @@
 [
     {
+        "role": "Sr Data Analyst",
+        "company": "[PwC](https://www.pwc.com.ar/es)",
+        "summary": "Principales responsabilidades: \n- Extract, Transform and Load (ETL) con Alteryx, Knime, Python, SQL y Power Query. \n- Robotic Process Automation (RPA). \n- Desarrollo de reportes en Power BI y Tableau. \n- Análisis de datos para obtener insights y proponer mejoras.\n\nTrabajo por proyectos con clientes de Estados Unidos y Europa. Familiarizado con Alteryx, Power BI y Azure Platform (Power Automate, Power Apps, Azure DevOps, etc.).",
+        "range": "Abr 2022 - Actualmente"
+    },
+    {
+        "role": "Docente Universitario",
+        "company": "[Facultad de Ciencias Exactas, Ingeniería y Agrimensura - UNR](https://web.fceia.unr.edu.ar/es/)",
+        "summary": "Docente en la cátedra de Sistemas de Información, materia de 3er año de Ingeniería Industrial. Programa de la materia disponible en el sitio de la [Escuela de Ingeniería Industrial](https://sites.google.com/site/eiiunr/acad%C3%A9mica/asignaturas/sistemas-de-informacion), plan de estudios disponible [aquí](https://web.fceia.unr.edu.ar/images/PDF/carreras_de_grado/Planes_2014/10102014/Res_373_2014_CS_Plan_2014_Ingenieria_Industrial.pdf).",
+        "range": "Mar 2022 - Actualmente"
+    },
+    {
         "role": "Business Intelligence Analyst",
         "company": "[Nextbyn](https://www.nextbyn.com/)",
-        "summary": "Principales responsabilidades: \n- Robotic Process Automation (RPA). \n-Extract, Transform and Load (ETL). \n- Creación y mantenimiento de bases de datos. \n- Elaboración y mantenimiento de reportes en Power BI. \n- Análisis de datos para obtener insights y tomar decisiones. \n- Detectar oportunidades y liderar procesos de mejora.\n\nFamiliarizado con Python, SQL Server, AWS y Windows Server.",
-        "range": "Oct 2021 - Actualmente"
+        "summary": "Principales responsabilidades: \n- Robotic Process Automation (RPA). \n- Extract, Transform and Load (ETL). \n- Creación y mantenimiento de bases de datos. \n- Elaboración y mantenimiento de reportes en Power BI. \n- Análisis de datos para obtener insights y tomar decisiones. \n- Detectar oportunidades y liderar procesos de mejora.\n\nFamiliarizado con Python, SQL Server, AWS y Windows Server.",
+        "range": "Oct 2021 - Abr 2022"
     },
     {
         "role": "Tutor de Data Analytics",

@@ -5,7 +5,7 @@
   },
   {
       "grouping":"Herramientas",
-      "skills":[ "Power BI","Tableau","Superset","git", "Minitab"]
+      "skills":[ "Power BI","Alteryx","Knime","Tableau","Superset","git"]
   },
   {
       "grouping":"Bases de datos",
@@ -14,7 +14,8 @@
         {"name":"Oracle","icon":"database"},
         "MongoDB",
         {"name":"PostgreSQL"},
-        {"name":"SQLite","icon":"sqllite"}
+        {"name":"SQLite","icon":"sqllite"},
+        {"name":"Dataverse","icon":"database"}
       ]
   },
   {
@@ -22,6 +23,7 @@
       "skills":[
           {"name":"Docker","link":"https://docker.com"},
           {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Azure","link":"https://azure.microsoft.com"},
           {"name":"Heroku","link":"https://heroku.com"}
       ]
   }
