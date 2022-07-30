@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energía on Valentín Silvestri - Personal Website</title>
-    <link>https://valentinsilvestri.github.io/tags/energ%C3%ADa/</link>
+    <link>https://vsilvestri.com.ar/tags/energ%C3%ADa/</link>
     <description>Recent content in Energía on Valentín Silvestri - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://valentinsilvestri.github.io/tags/energ%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vsilvestri.com.ar/tags/energ%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CAMMESA Web API data visualization con Strealit.</title>
-      <link>https://valentinsilvestri.github.io/publications/cammesa-streamlit/</link>
+      <link>https://vsilvestri.com.ar/publications/cammesa-streamlit/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/cammesa-streamlit/</guid>
+      <guid>https://vsilvestri.com.ar/publications/cammesa-streamlit/</guid>
       <description>Aplicación que permite visualizar las principales variables del SADI (actualmente es posible visualizar y descargar datos de las cuencas hídricas, perturbaciones del SADI, así como datos de la demanda y generación eléctrica). Elaborada utilizando la API Rest de CAMMESA, Mongo DB, Heroku y Streamlit, con el fin de analizar las bondades de Streamlit.
     </description>
     </item>
     
     <item>
       <title>Mercados spot y derivados de energía. Experiencias internacionales. Desarrollo en Argentina.</title>
-      <link>https://valentinsilvestri.github.io/publications/natural-gas-markets/</link>
+      <link>https://vsilvestri.com.ar/publications/natural-gas-markets/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/natural-gas-markets/</guid>
+      <guid>https://vsilvestri.com.ar/publications/natural-gas-markets/</guid>
       <description>El futuro del gas natural es prometedor debido a sus características para ser utilizado como combustible de transición hacia una matriz energética mundial más limpia. Por otro lado, el proceso de “comoditización” del gas está avanzando internacionalmente gracias a la expansión del GNL, dando lugar al surgimiento y consolidación de un mercado de gas globalizado, donde los precios locales del gas natural irán desapareciendo.
 Bajo estas hipótesis, se analizó la industria y el mercado de gas natural en Argentina, así como la factibilidad de implementar derivados financieros.</description>
     </item>

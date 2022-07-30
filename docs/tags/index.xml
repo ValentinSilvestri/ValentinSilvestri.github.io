@@ -2,170 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Valentín Silvestri - Personal Website</title>
-    <link>https://valentinsilvestri.github.io/tags/</link>
+    <link>https://vsilvestri.com.ar/tags/</link>
     <description>Recent content in Tags on Valentín Silvestri - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://valentinsilvestri.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vsilvestri.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloud</title>
-      <link>https://valentinsilvestri.github.io/tags/cloud/</link>
+      <link>https://vsilvestri.com.ar/tags/cloud/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/cloud/</guid>
+      <guid>https://vsilvestri.com.ar/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energía</title>
-      <link>https://valentinsilvestri.github.io/tags/energ%C3%ADa/</link>
+      <link>https://vsilvestri.com.ar/tags/energ%C3%ADa/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/energ%C3%ADa/</guid>
+      <guid>https://vsilvestri.com.ar/tags/energ%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heroku</title>
-      <link>https://valentinsilvestri.github.io/tags/heroku/</link>
+      <link>https://vsilvestri.com.ar/tags/heroku/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/heroku/</guid>
+      <guid>https://vsilvestri.com.ar/tags/heroku/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MongoDB</title>
-      <link>https://valentinsilvestri.github.io/tags/mongodb/</link>
+      <link>https://vsilvestri.com.ar/tags/mongodb/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/mongodb/</guid>
+      <guid>https://vsilvestri.com.ar/tags/mongodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://valentinsilvestri.github.io/tags/python/</link>
+      <link>https://vsilvestri.com.ar/tags/python/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/python/</guid>
+      <guid>https://vsilvestri.com.ar/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REST APIs</title>
-      <link>https://valentinsilvestri.github.io/tags/rest-apis/</link>
+      <link>https://vsilvestri.com.ar/tags/rest-apis/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/rest-apis/</guid>
+      <guid>https://vsilvestri.com.ar/tags/rest-apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Streamlit</title>
-      <link>https://valentinsilvestri.github.io/tags/streamlit/</link>
+      <link>https://vsilvestri.com.ar/tags/streamlit/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/streamlit/</guid>
+      <guid>https://vsilvestri.com.ar/tags/streamlit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agile</title>
-      <link>https://valentinsilvestri.github.io/tags/agile/</link>
+      <link>https://vsilvestri.com.ar/tags/agile/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/agile/</guid>
+      <guid>https://vsilvestri.com.ar/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Educación</title>
-      <link>https://valentinsilvestri.github.io/tags/educaci%C3%B3n/</link>
+      <link>https://vsilvestri.com.ar/tags/educaci%C3%B3n/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/educaci%C3%B3n/</guid>
+      <guid>https://vsilvestri.com.ar/tags/educaci%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigación</title>
-      <link>https://valentinsilvestri.github.io/tags/investigaci%C3%B3n/</link>
+      <link>https://vsilvestri.com.ar/tags/investigaci%C3%B3n/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/investigaci%C3%B3n/</guid>
+      <guid>https://vsilvestri.com.ar/tags/investigaci%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scrum</title>
-      <link>https://valentinsilvestri.github.io/tags/scrum/</link>
+      <link>https://vsilvestri.com.ar/tags/scrum/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/scrum/</guid>
+      <guid>https://vsilvestri.com.ar/tags/scrum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Development</title>
-      <link>https://valentinsilvestri.github.io/tags/software-development/</link>
+      <link>https://vsilvestri.com.ar/tags/software-development/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/software-development/</guid>
+      <guid>https://vsilvestri.com.ar/tags/software-development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demand Plannig</title>
-      <link>https://valentinsilvestri.github.io/tags/demand-plannig/</link>
+      <title>Demand Planning</title>
+      <link>https://vsilvestri.com.ar/tags/demand-planning/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/demand-plannig/</guid>
+      <guid>https://vsilvestri.com.ar/tags/demand-planning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forecasting</title>
-      <link>https://valentinsilvestri.github.io/tags/forecasting/</link>
+      <link>https://vsilvestri.com.ar/tags/forecasting/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/forecasting/</guid>
+      <guid>https://vsilvestri.com.ar/tags/forecasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ingeniería Industrial</title>
-      <link>https://valentinsilvestri.github.io/tags/ingenier%C3%ADa-industrial/</link>
+      <link>https://vsilvestri.com.ar/tags/ingenier%C3%ADa-industrial/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/ingenier%C3%ADa-industrial/</guid>
+      <guid>https://vsilvestri.com.ar/tags/ingenier%C3%ADa-industrial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigación Operativa</title>
-      <link>https://valentinsilvestri.github.io/tags/investigaci%C3%B3n-operativa/</link>
+      <link>https://vsilvestri.com.ar/tags/investigaci%C3%B3n-operativa/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/investigaci%C3%B3n-operativa/</guid>
+      <guid>https://vsilvestri.com.ar/tags/investigaci%C3%B3n-operativa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mercados de capitales</title>
-      <link>https://valentinsilvestri.github.io/tags/mercados-de-capitales/</link>
+      <link>https://vsilvestri.com.ar/tags/mercados-de-capitales/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/mercados-de-capitales/</guid>
+      <guid>https://vsilvestri.com.ar/tags/mercados-de-capitales/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WebSockets</title>
-      <link>https://valentinsilvestri.github.io/tags/websockets/</link>
+      <link>https://vsilvestri.com.ar/tags/websockets/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/tags/websockets/</guid>
+      <guid>https://vsilvestri.com.ar/tags/websockets/</guid>
       <description></description>
     </item>
     

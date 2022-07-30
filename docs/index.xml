@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Valentín Silvestri - Personal Website</title>
-    <link>https://valentinsilvestri.github.io/</link>
+    <link>https://vsilvestri.com.ar/</link>
     <description>Recent content in Home on Valentín Silvestri - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Mon, 10 Jan 2022 16:00:00 -0300</lastBuildDate><atom:link href="https://valentinsilvestri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jan 2022 16:00:00 -0300</lastBuildDate><atom:link href="https://vsilvestri.com.ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CAMMESA Web API data visualization con Strealit.</title>
-      <link>https://valentinsilvestri.github.io/publications/cammesa-streamlit/</link>
+      <link>https://vsilvestri.com.ar/publications/cammesa-streamlit/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/cammesa-streamlit/</guid>
+      <guid>https://vsilvestri.com.ar/publications/cammesa-streamlit/</guid>
       <description>Aplicación que permite visualizar las principales variables del SADI (actualmente es posible visualizar y descargar datos de las cuencas hídricas, perturbaciones del SADI, así como datos de la demanda y generación eléctrica). Elaborada utilizando la API Rest de CAMMESA, Mongo DB, Heroku y Streamlit, con el fin de analizar las bondades de Streamlit.
     </description>
     </item>
     
     <item>
       <title>Incorporación teórico-práctica de la filosofía Agile y sus metodologías en la Cátreda de Sistemas de Información.</title>
-      <link>https://valentinsilvestri.github.io/publications/agile-methodologies/</link>
+      <link>https://vsilvestri.com.ar/publications/agile-methodologies/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/agile-methodologies/</guid>
+      <guid>https://vsilvestri.com.ar/publications/agile-methodologies/</guid>
       <description>Bajo un programa de Adscripción la cátedra de Sistemas de Información, desarrolle durante dos semestres el proyecto “Incorporación teórico-práctica de la filosofía Agile y sus metodologías”. Este proyecto consistió en la elaboración de material de estudio y dictado de clases teórico/prácticas sobre metodologías Agile con foco en SCRUM a +120 alumnos.
    </description>
     </item>
     
     <item>
       <title>Profesionalización de la gestión de aprovisionamiento y compras, gestión de almacén y distribución a sucursales en cadena de pinturerías.</title>
-      <link>https://valentinsilvestri.github.io/publications/engineer-project/</link>
+      <link>https://vsilvestri.com.ar/publications/engineer-project/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/engineer-project/</guid>
+      <guid>https://vsilvestri.com.ar/publications/engineer-project/</guid>
       <description>Proyecto llevado a cabo en una empresa comercializadora de pintura localizada en la Provincia de Buenos Aires, con sucursales en las provincias de Santa Fe y Entre Ríos. La búsqueda de nuevos mercados y el continuo crecimiento de la empresa, en un contexto cada vez más competitivo, requiere de la definición de metodologías y prácticas tendientes a profesionalizar su gestión; objetivos alcanzados en el desarrollo del presente proyecto.
  </description>
     </item>
     
     <item>
       <title>Mercados spot y derivados de energía. Experiencias internacionales. Desarrollo en Argentina.</title>
-      <link>https://valentinsilvestri.github.io/publications/natural-gas-markets/</link>
+      <link>https://vsilvestri.com.ar/publications/natural-gas-markets/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/natural-gas-markets/</guid>
+      <guid>https://vsilvestri.com.ar/publications/natural-gas-markets/</guid>
       <description>El futuro del gas natural es prometedor debido a sus características para ser utilizado como combustible de transición hacia una matriz energética mundial más limpia. Por otro lado, el proceso de “comoditización” del gas está avanzando internacionalmente gracias a la expansión del GNL, dando lugar al surgimiento y consolidación de un mercado de gas globalizado, donde los precios locales del gas natural irán desapareciendo.
 Bajo estas hipótesis, se analizó la industria y el mercado de gas natural en Argentina, así como la factibilidad de implementar derivados financieros.</description>
     </item>
     
     <item>
       <title>Bonos de Chapo - Twitter bot.</title>
-      <link>https://valentinsilvestri.github.io/publications/bonos-del-chapo/</link>
+      <link>https://vsilvestri.com.ar/publications/bonos-del-chapo/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/bonos-del-chapo/</guid>
+      <guid>https://vsilvestri.com.ar/publications/bonos-del-chapo/</guid>
       <description>Elabore un simple bot de Twitter y Telegram para prestar seguimiento a ratios de bonos HD (Bonares y Globales), publicando diariamente las relaciones entre los mencionados bonos. En su corta, los tweets superaron las 100.000 impresiones, demostrando el interés de tenedores en esta sencilla (y naive.. perdón NNT) estrategia.
 Ratios de bonos ARS: Ratio_pxCierre/Ratio_promedioHistórico - 2021-04-07 #Bonos pic.twitter.com/3w7VWpH4NA
 &amp;mdash; Bonos del Chapo (@BonosDelChapo) April 7, 2021  Ratios GD30 y GD30D: 17/06/2021.</description>

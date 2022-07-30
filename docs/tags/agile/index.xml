@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile on Valentín Silvestri - Personal Website</title>
-    <link>https://valentinsilvestri.github.io/tags/agile/</link>
+    <link>https://vsilvestri.com.ar/tags/agile/</link>
     <description>Recent content in Agile on Valentín Silvestri - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://valentinsilvestri.github.io/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://vsilvestri.com.ar/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Incorporación teórico-práctica de la filosofía Agile y sus metodologías en la Cátreda de Sistemas de Información.</title>
-      <link>https://valentinsilvestri.github.io/publications/agile-methodologies/</link>
+      <link>https://vsilvestri.com.ar/publications/agile-methodologies/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/agile-methodologies/</guid>
+      <guid>https://vsilvestri.com.ar/publications/agile-methodologies/</guid>
       <description>Bajo un programa de Adscripción la cátedra de Sistemas de Información, desarrolle durante dos semestres el proyecto “Incorporación teórico-práctica de la filosofía Agile y sus metodologías”. Este proyecto consistió en la elaboración de material de estudio y dictado de clases teórico/prácticas sobre metodologías Agile con foco en SCRUM a +120 alumnos.
    </description>
     </item>

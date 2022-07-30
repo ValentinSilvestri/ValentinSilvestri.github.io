@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mercados de capitales on Valentín Silvestri - Personal Website</title>
-    <link>https://valentinsilvestri.github.io/tags/mercados-de-capitales/</link>
+    <link>https://vsilvestri.com.ar/tags/mercados-de-capitales/</link>
     <description>Recent content in Mercados de capitales on Valentín Silvestri - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://valentinsilvestri.github.io/tags/mercados-de-capitales/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vsilvestri.com.ar/tags/mercados-de-capitales/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mercados spot y derivados de energía. Experiencias internacionales. Desarrollo en Argentina.</title>
-      <link>https://valentinsilvestri.github.io/publications/natural-gas-markets/</link>
+      <link>https://vsilvestri.com.ar/publications/natural-gas-markets/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/natural-gas-markets/</guid>
+      <guid>https://vsilvestri.com.ar/publications/natural-gas-markets/</guid>
       <description>El futuro del gas natural es prometedor debido a sus características para ser utilizado como combustible de transición hacia una matriz energética mundial más limpia. Por otro lado, el proceso de “comoditización” del gas está avanzando internacionalmente gracias a la expansión del GNL, dando lugar al surgimiento y consolidación de un mercado de gas globalizado, donde los precios locales del gas natural irán desapareciendo.
 Bajo estas hipótesis, se analizó la industria y el mercado de gas natural en Argentina, así como la factibilidad de implementar derivados financieros.</description>
     </item>
     
     <item>
       <title>Bonos de Chapo - Twitter bot.</title>
-      <link>https://valentinsilvestri.github.io/publications/bonos-del-chapo/</link>
+      <link>https://vsilvestri.com.ar/publications/bonos-del-chapo/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://valentinsilvestri.github.io/publications/bonos-del-chapo/</guid>
+      <guid>https://vsilvestri.com.ar/publications/bonos-del-chapo/</guid>
       <description>Elabore un simple bot de Twitter y Telegram para prestar seguimiento a ratios de bonos HD (Bonares y Globales), publicando diariamente las relaciones entre los mencionados bonos. En su corta, los tweets superaron las 100.000 impresiones, demostrando el interés de tenedores en esta sencilla (y naive.. perdón NNT) estrategia.
 Ratios de bonos ARS: Ratio_pxCierre/Ratio_promedioHistórico - 2021-04-07 #Bonos pic.twitter.com/3w7VWpH4NA
 &amp;mdash; Bonos del Chapo (@BonosDelChapo) April 7, 2021  Ratios GD30 y GD30D: 17/06/2021.</description>
