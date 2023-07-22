@@ -1,0 +1,9 @@
+# Build and Release Folders
+data/
+content/
+layouts/
+resources/
+
+# Other files and folders
+config.toml
+
